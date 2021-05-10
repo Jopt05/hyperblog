@@ -3,3 +3,5 @@ Texto de prueba
 Jesús Omar Puentes Torres tiene 23 años.
 
 En cámara parece alto pero no lo es
+
+Hoy es desarrollador web 
